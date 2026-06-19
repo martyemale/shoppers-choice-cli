@@ -1,0 +1,3 @@
+Date,SKU,Type,Quantity,Previous_Qty,New_Qty,Performed_By,Notes
+2026-06-18_23:15,Clothes Donation,INITIAL,5,0,5,marty,Product added
+2026-06-18_23:16,Clothes Donation,SALE,2,5,3,marty,Sold 2 units
